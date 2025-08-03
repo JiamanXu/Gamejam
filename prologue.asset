@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc965271b07518b44990ab94222851cc, type: 3}
+  m_Name: prologue
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Althaea
+    text: This is the place. Their intel was accurate.
+    avatar: {fileID: 21300000, guid: 428a8cb1568dcee4db72e1d94af6722a, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Nilo
+    text: "No\u2014cough\u2014is it just me or is it really dusty in here? cough
+      cough Elarin, could you stop flapping your wings? I\u2019m choking here!"
+    avatar: {fileID: 21300000, guid: 053dbeae49488514fbfa0c4611a9cbb8, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Elarin
+    text: "\u2026There are a lot of coffins ahead."
+    avatar: {fileID: 21300000, guid: ac8d54fa3737db448bb3efd7d98766d5, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 0}
+  - speaker: Althaea
+    text: "Alright. Nilo, check the side corridor and the second floor. Elarin, go
+      outside and scout the surroundings. I\u2019ll search the courtyard and the
+      nave."
+    avatar: {fileID: 21300000, guid: 428a8cb1568dcee4db72e1d94af6722a, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Althaea
+    text: If anything happens, ring the bell. No more reckless moves. Understood?
+    avatar: {fileID: 21300000, guid: 428a8cb1568dcee4db72e1d94af6722a, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Nilo
+    text: Got it! (heads into a side corridor)
+    avatar: {fileID: 21300000, guid: 053dbeae49488514fbfa0c4611a9cbb8, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Elarin
+    text: "I\u2019ll be quick. (footsteps fading away)"
+    avatar: {fileID: 21300000, guid: ac8d54fa3737db448bb3efd7d98766d5, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Althaea
+    text: "No traces of magic use\u2026 no markers\u2026 the murals look ordinary,
+      no bodies on the ground either."
+    avatar: {fileID: 21300000, guid: 428a8cb1568dcee4db72e1d94af6722a, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
+  - speaker: Althaea
+    text: "(It\u2019s too quiet\u2026)"
+    avatar: {fileID: 21300000, guid: 428a8cb1568dcee4db72e1d94af6722a, type: 3}
+    background: {fileID: 21300000, guid: bd280b7e2ec4628479dc34305aae19e2, type: 3}
+    sfx: {fileID: 8300000, guid: 506d1c90a04276449ba023bb48bd5455, type: 3}
